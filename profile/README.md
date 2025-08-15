@@ -7,19 +7,24 @@
 </h1>
 
 <p align="center">
-  
-![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
-![Web](https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge&logo=google-chrome)
-![Java](https://img.shields.io/badge/Backend-Java-orange?style=for-the-badge&logo=java)
-![React](https://img.shields.io/badge/Frontend-React-61DBFB?style=for-the-badge&logo=react)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-
+  Organizing competitive Free Fire tournaments with style, fair play, and excitement!  
+  Follow us for updates, rules, and leaderboards.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Android">
+  <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge&logo=google-chrome" alt="Web">
+  <img src="https://img.shields.io/badge/Backend-Java-orange?style=for-the-badge&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/Frontend-React-61DBFB?style=for-the-badge&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+</p>
+
+---
+
+## 📢 About Us
 
 **Empowering gamers and organizers to create epic Free Fire tournaments with ease.**  
 We are building an **open-source platform** that combines Android, Web, and Backend technologies to make hosting and playing tournaments effortless.
-
----
 
 ## 🚀 What We’re Building
 
