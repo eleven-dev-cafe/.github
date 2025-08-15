@@ -28,7 +28,7 @@ We are building an **open-source platform** that combines Android, Web, and Back
 
 </br>
 
-## 🚀 What We’re Building
+## 👨‍💻 What We’re Building
 
 - **📱 Android App** – Player registration, schedules, live scores, notifications
 - **💻 Web App** – Tournament management, leaderboards, public viewing
