@@ -116,7 +116,7 @@ We welcome contributions from the community!
 ## 📬 Community
 
 Join us to discuss ideas, share feedback, and coordinate contributions:  
-[![Join Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Join%20Us%20on%20Discord)](https://discord.gg/your-invite-link)
+[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=5865F2&label=Join%20Us%20on%20Discord)](https://discord.gg/eFbHHpSD)
 
 </br>
 
