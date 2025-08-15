@@ -36,14 +36,47 @@ We are building an **open-source platform** that combines Android, Web, and Back
 
 </br>
 
+## 🚀 Features
+
+### For Players
+- Easy team and player registration
+- View upcoming tournaments
+- Check match schedules
+- Track live scores & standings
+- Receive push notifications for updates
+
+### For Organizers
+- Create and manage tournaments
+- Set match schedules & brackets
+- Manage player registrations
+- Publish results and leaderboards
+- Handle prize distribution details
+
+### For Viewers
+- Live match updates
+- Public leaderboards
+- Tournament history and statistics
+
+</br>
+
 ## 🛠 Tech Stack
 
-| Platform      | Technology |
-|--------------|------------|
-| Android      | Java / Kotlin, XML UI, Retrofit, MVVM |
-| Web          | React.js / Next.js, TailwindCSS, Redux Toolkit |
-| Backend      | Spring Boot (Java), MySQL/PostgreSQL, JWT Auth |
-| DevOps       | GitHub Actions, Docker |
+### Mobile App (Android)
+- **Language:** Java / Kotlin
+- **UI Framework:** Android Jetpack Components (XML)
+- **Networking:** Retrofit + JSON
+- **Architecture:** MVVM
+
+### Web App
+- **Frontend:** React.js / Next.js
+- **UI Framework:** TailwindCSS / Material-UI
+- **State Management:** Redux Toolkit / Zustand
+
+### Backend
+- **Framework:** Spring Boot (Java)
+- **Database:** MySQL / PostgreSQL
+- **Authentication:** JWT
+- **API Style:** REST
 
 </br>
 
@@ -62,13 +95,21 @@ Whether you’re a **developer**, **designer**, or **gamer**, you can contribute
 
 </br>
 
-## 🤝 How to Contribute
+## 👨‍💻 Contributing
+
+We welcome contributions from the community! 
+
 
 1. Browse our [GitHub Projects](https://github.com/orgs/ff-tournament-hub/projects)
 2. Pick an open issue and comment to claim it
-3. Fork the repo, make your changes, and submit a PR
+3. Steps to make changes in repo:
+   - Fork the repository
+   - Create a new branch (feature/your-feature-name)
+   - Commit your changes
+   - Open a Pull Request
+   
 
-📄 Read our [CONTRIBUTING.md](https://github.com/ff-tournament-hub/.github/blob/main/CONTRIBUTING.md) for guidelines.
+📄 Please read our [CONTRIBUTING.md](https://github.com/ff-tournament-hub/.github/blob/main/CONTRIBUTING.md) for guidelines on how to get started.
 
 </br>
 
