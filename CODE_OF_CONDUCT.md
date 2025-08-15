@@ -19,7 +19,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
----
+</br>
 
 ## Our Standards
 Examples of behavior that contribute to a positive environment include:
@@ -35,7 +35,7 @@ Examples of unacceptable behavior include:
 - Publishing others’ private information without consent
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
----
+</br>
 
 ## Enforcement Responsibilities
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior.  
@@ -49,20 +49,20 @@ They have the right and responsibility to remove, edit, or reject:
 - Other contributions  
 That are not aligned with this Code of Conduct.
 
----
+</br>
 
 ## Scope
 This Code of Conduct applies within all community spaces and when an individual is officially representing the project or community in public spaces.
 
----
+</br>
 
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at:
 
-**Email:** [INSERT-CONTACT-EMAIL]  
+**Email:** vasudevsastiya@gmail.com
 All complaints will be reviewed and investigated promptly and fairly.
 
----
+</br>
 
 ## Enforcement Guidelines
 1. **Correction** – Private communication and guidance on expected behavior.  
@@ -70,7 +70,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 3. **Temporary Ban** – A set period during which the individual is not allowed to participate.  
 4. **Permanent Ban** – Removal from all community spaces.
 
----
+</br>
 
 ## Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/) version 2.1.
