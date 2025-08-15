@@ -19,12 +19,14 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
 </p>
 
----
+</br>
 
 ## 📢 About Us
 
 **Empowering gamers and organizers to create epic Free Fire tournaments with ease.**  
 We are building an **open-source platform** that combines Android, Web, and Backend technologies to make hosting and playing tournaments effortless.
+
+</br>
 
 ## 🚀 What We’re Building
 
@@ -32,7 +34,7 @@ We are building an **open-source platform** that combines Android, Web, and Back
 - **💻 Web App** – Tournament management, leaderboards, public viewing
 - **⚙ Backend API** – Tournament creation, player data, match results, analytics
 
----
+</br>
 
 ## 🛠 Tech Stack
 
@@ -43,14 +45,14 @@ We are building an **open-source platform** that combines Android, Web, and Back
 | Backend      | Spring Boot (Java), MySQL/PostgreSQL, JWT Auth |
 | DevOps       | GitHub Actions, Docker |
 
----
+</br>
 
 ## 🌟 Why Join Us?
 
 We’re creating **an open-source eSports solution** for Free Fire tournaments.  
 Whether you’re a **developer**, **designer**, or **gamer**, you can contribute and shape the future of competitive gaming.
 
----
+</br>
 
 ## 📌 Current Focus
 
@@ -58,7 +60,7 @@ Whether you’re a **developer**, **designer**, or **gamer**, you can contribute
 - 🔹 Android MVP: Registration & Dashboard
 - 🔹 Web MVP: Tournament listing & details
 
----
+</br>
 
 ## 🤝 How to Contribute
 
@@ -68,13 +70,13 @@ Whether you’re a **developer**, **designer**, or **gamer**, you can contribute
 
 📄 Read our [CONTRIBUTING.md](https://github.com/ff-tournament-hub/.github/blob/main/CONTRIBUTING.md) for guidelines.
 
----
+</br>
 
 ## 📬 Community
 
 Join us to discuss ideas, share feedback, and coordinate contributions:  
 [![Join Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Join%20Us%20on%20Discord)](https://discord.gg/your-invite-link)
 
----
+</br>
 
 **💥 Let’s build the ultimate Free Fire tournament platform together!**
