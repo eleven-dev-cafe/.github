@@ -95,7 +95,7 @@ Whether you’re a **developer**, **designer**, or **gamer**, you can contribute
 
 </br>
 
-## 👨‍💻 Contributing
+## 🤝 How to Contribute
 
 We welcome contributions from the community! 
 
