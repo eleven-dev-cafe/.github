@@ -12,19 +12,19 @@
 </p>
 
 <p align="center">
-  <a href="https://developer.android.com/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
   </a>
-  <a href="https://www.google.com/chrome/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="https://www.java.com/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Backend-Java-orange?style=for-the-badge&logo=java" />
   </a>
-  <a href="https://react.dev/">
+  <a href="h#">
     <img src="https://img.shields.io/badge/Frontend-React-61DBFB?style=for-the-badge&logo=react" />
   </a>
-  <a href="./LICENSE.md">
+  <a href=".github/LICENSE.md">
     <img src="https://img.shields.io/badge/License-Non--Commercial-red?style=for-the-badge" />
   </a>
 </p>
