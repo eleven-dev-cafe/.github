@@ -24,7 +24,7 @@
   <a href="h#">
     <img src="https://img.shields.io/badge/Frontend-React-61DBFB?style=for-the-badge&logo=react" />
   </a>
-  <a href=".github/LICENSE.md">
+  <a href="../LICENSE.md">
     <img src="https://img.shields.io/badge/License-Non--Commercial-red?style=for-the-badge" />
   </a>
 </p>
