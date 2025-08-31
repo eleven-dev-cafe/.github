@@ -1,14 +1,13 @@
-<img width="1536" height="1024" alt="FF Banner" src="https://github.com/user-attachments/assets/aa944cd6-bacd-443b-b6e1-21bce138eae8" />
+<img width="1584" height="396" alt="11DevelopmentCafeBanner" src="https://github.com/user-attachments/assets/cb944fdf-7630-4a3d-aa23-ce98b63d6239" />
 
 <h1>
  <p align="center">
- Hello!, Welcome to our Organization
+ Hello!, Welcome to 11 Development Café
 </p>
 </h1>
 
 <p align="center">
-  Organizing competitive Free Fire tournaments with style, fair play, and excitement!  
-  Follow us for updates, rules, and leaderboards.
+<i>"Fuel for Devs, Crafted with Code"</i> – A café-style community for developers.
 </p>
 
 <p align="center">
@@ -34,39 +33,26 @@
 
 ## 📢 About Us
 
-**Empowering gamers and organizers to create epic Free Fire tournaments with ease.**  
-We are building an **open-source platform** that combines Android, Web, and Backend technologies to make hosting and playing tournaments effortless.
+A **community for developers** to hang out, code, and build together.  
+Think of it as a café ☕ — but instead of coffee, we serve **Android apps, web platforms, and backend APIs** 💻.
 
 </br>
 
-## 👨‍💻 What We’re Building
+## 🚀 Our Services
+At **11 Development Café**, we are building:
+- 📱 **Android Development** – apps, libraries, open-source tools.  
+- 🌐 **Web Development** – front-end, back-end, full-stack projects.  
+- ⚙️ **Backend Systems** – APIs, microservices, databases, and cloud.
 
-- **📱 Android App** – Player registration, schedules, live scores, notifications
-- **💻 Web App** – Tournament management, leaderboards, public viewing
-- **⚙ Backend API** – Tournament creation, player data, match results, analytics
+We’re not just building products — we’re creating a **collaborative developer culture**.
 
 </br>
 
-## 🚀 Features
-
-### For Players
-- Easy team and player registration
-- View upcoming tournaments
-- Check match schedules
-- Track live scores & standings
-- Receive push notifications for updates
-
-### For Organizers
-- Create and manage tournaments
-- Set match schedules & brackets
-- Manage player registrations
-- Publish results and leaderboards
-- Handle prize distribution details
-
-### For Viewers
-- Live match updates
-- Public leaderboards
-- Tournament history and statistics
+## 🏆 Our Vision
+To become the go-to **café for coders**, where:
+- Developers collaborate on **open-source projects**.  
+- Newbies learn, mentors guide, and pros innovate.  
+- Code + Coffee ☕ = Creativity 🚀.
 
 </br>
 
@@ -91,27 +77,12 @@ We are building an **open-source platform** that combines Android, Web, and Back
 
 </br>
 
-## 🌟 Why Join Us?
-
-We’re creating **an open-source eSports solution** for Free Fire tournaments.  
-Whether you’re a **developer**, **designer**, or **gamer**, you can contribute and shape the future of competitive gaming.
-
-</br>
-
-## 📌 Current Focus
-
-- 🔹 Backend Authentication & Tournament APIs
-- 🔹 Android MVP: Registration & Dashboard
-- 🔹 Web MVP: Tournament listing & details
-
-</br>
-
 ## 🤝 How to Contribute
 
 We welcome contributions from the community! 
 
 
-1. Browse our [GitHub Projects](https://github.com/orgs/ff-tournament-hub/projects)
+1. Browse our [GitHub Projects](https://github.com/orgs/eleven-dev-cafe/projects)
 2. Pick an open issue and comment to claim it
 3. Steps to make changes in repo:
    - Fork the repository
@@ -131,4 +102,4 @@ Join us to discuss ideas, share feedback, and coordinate contributions:
 
 </br>
 
-**💥 Let’s build the ultimate Free Fire tournament platform together!**
+**💥 Code, Connect, and Create — where developers feel at home.**
