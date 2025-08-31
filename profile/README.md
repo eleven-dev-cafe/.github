@@ -101,7 +101,8 @@ We welcome contributions from the community!
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=919111852267) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyarsilalsolanki011@gmail.com)
 
 Join us to discuss ideas, share feedback, and coordinate contributions:  
-[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=4CBB17&label=Join%20Us%20on%20Discord&logo=discord&logoColor=blue)](https://discord.gg/Zrc9x3ts)
+[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=4CBB17&label=Join%20Us%20on%20Discord&logo=discord&logoColor=blue)](https://discord.gg/Zrc9x3ts)<br/>
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-black?style=for-the-badge&logo=github)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)
 
 </br>
 
