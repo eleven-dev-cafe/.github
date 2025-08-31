@@ -1,6 +1,6 @@
 # Non-Commercial License
 
-Copyright (c) 2025 FF Tournament Hub
+Copyright (c) 2025 Eleven Development Cafe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this project and associated documentation files (the "Project"), to use,
