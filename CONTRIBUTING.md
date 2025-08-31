@@ -82,7 +82,7 @@ Ensure everything works before submitting:
 </br>
 
 ## Community & Support
-- Join our [Discussions]() to share ideas.
-- Report issues in [Issues]().
+- Join our [Discussions](https://discord.gg/zaBwV67H) to share ideas.
+- Report issues in [Issues](https://discord.gg/CtFBreAP).
 - Follow contribution etiquettes and be kind ❤️
 
