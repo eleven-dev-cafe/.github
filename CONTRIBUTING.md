@@ -6,7 +6,7 @@ We’re working on open-source Android, Web, and Backend development, and we wel
 At Eleven Dev Cafe, we focus on three main services:
 - 📱 **Android Development** – Building modern, user-friendly apps.
 - 🌐 **Web Development** – Creating responsive, scalable web experiences.
-- ⚙️ **Backend Development** – Powering everything with secure, reliable APIs and databases.
+- ⚙️ **Backend Development** – Powering everything with secure, reliable APIs and databases(mysql).
 
 </br>
 
@@ -76,6 +76,7 @@ Ensure everything works before submitting:
 - 📱 Android App (Kotlin/Java + XML/Compose)
 - 🌐 Web Frontend (React/Next.js)
 - ⚙️ Backend (Spring Boot, JWT, APIs, Database)
+- 🐬 [MySQL Database](https://github.com/eleven-dev-cafe/mysql-interview-prep)
 - 🎨 UI/UX Design
 - 📝 Documentation
 
