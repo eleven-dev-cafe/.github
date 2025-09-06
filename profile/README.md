@@ -95,7 +95,8 @@ We welcome contributions from the community!
 ## 📬 Community Support
 
 ### 👨‍💻 Admin / Maintainer
-`Gyarsilal Solanki`</br>
+`Gyarsilal Solanki`
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gyarsilal-solanki) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/gyarsilalsolanki011)
 
 Join us to discuss ideas, share feedback, and coordinate contributions:  
