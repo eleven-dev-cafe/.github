@@ -26,7 +26,7 @@
 </p>
 
 
-</br>
+<br/>
 
 ## 📢 About Us
 
@@ -43,7 +43,7 @@ At **11 Development Café**, we are building:
 
 We’re not just building products — we’re creating a **collaborative developer culture**.
 
-</br>
+<br/>
 
 ## 🏆 Our Vision
 To become the go-to **café for coders**, where:
@@ -51,7 +51,7 @@ To become the go-to **café for coders**, where:
 - Newbies learn, mentors guide, and pros innovate.  
 - Code + Coffee ☕ = Creativity 🚀.
 
-</br>
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -72,7 +72,7 @@ To become the go-to **café for coders**, where:
 - **Authentication:** JWT
 - **API Style:** REST
 
-</br>
+<br>
 
 ## 🤝 How to Contribute
 
@@ -90,7 +90,7 @@ We welcome contributions from the community!
 
 📄 Please read our [CONTRIBUTING.md](https://github.com/ff-tournament-hub/.github/blob/main/CONTRIBUTING.md) for guidelines on how to get started.
 
-</br>
+<br/>
 
 ## 📬 Community Support
 
@@ -103,6 +103,6 @@ Join us to discuss ideas, share feedback, and coordinate contributions:
 [![Join Discord](https://img.shields.io/discord/1405808666179014697?color=4CBB17&label=Join%20Us%20on%20Discord&logo=discord&logoColor=blue)](https://discord.gg/Zrc9x3ts)<br/>
 [![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-black?style=for-the-badge&logo=github)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)
 
-</br>
+<br>
 
 **🌟 Star us on GitHub if you believe in the vision!**
