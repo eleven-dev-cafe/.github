@@ -37,9 +37,9 @@ Think of it as a café ☕ — but instead of coffee, we serve **Android apps, w
 
 ## 🚀 Our Services
 At **11 Development Café**, we are building:
-- 📱 **Android Development** – apps, libraries, open-source tools.  
-- 🌐 **Web Development** – front-end, back-end, full-stack projects.  
-- ⚙️ **Backend Systems** – APIs, microservices, databases, and cloud.
+- **Android Development** – apps, libraries, open-source tools.  
+- **Web Development** – front-end, back-end, full-stack projects.  
+- **Backend Systems** – APIs, microservices, databases, and cloud.
 
 We’re not just building products — we’re creating a **collaborative developer culture**.
 
@@ -55,18 +55,18 @@ To become the go-to **café for coders**, where:
 
 ## 🛠 Tech Stack
 
-### Mobile App (Android)
+### **📱 Mobile App (Android)**
 - **Language:** Java / Kotlin
 - **UI Framework:** Android Jetpack Components (XML)
 - **Networking:** Retrofit + JSON
 - **Architecture:** MVVM
 
-### Web App
+### **🌐 Web App**
 - **Frontend:** React.js / Next.js
 - **UI Framework:** TailwindCSS / Material-UI
 - **State Management:** Redux Toolkit / Zustand
 
-### Backend
+### **⚙️ Backend**
 - **Framework:** Spring Boot (Java)
 - **Database:** MySQL / PostgreSQL
 - **Authentication:** JWT
