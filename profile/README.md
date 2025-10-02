@@ -72,6 +72,8 @@ To become the go-to **café for coders**, where:
 - **Authentication:** JWT
 - **API Style:** REST
 
+> As the community grows with genuine developers, the tech stack will expand automatically.
+
 <br>
 
 ## 🤝 How to Contribute
