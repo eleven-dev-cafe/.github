@@ -94,17 +94,17 @@ We welcome contributions from the community!
 
 ## 📬 Community Support
 
-### 👨‍💻 Admin / Maintainer
-`Gyarsilal Solanki`
+### 👨‍💻 Admin / Maintainer 
+**`Gyarsilal Solanki`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gyarsilal-solanki) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/gyarsilalsolanki011)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gyarsilal-solanki)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/gyarsilalsolanki011)
 
-Join us to discuss ideas, share feedback, and coordinate contributions:  
-[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=4CBB17&label=Join%20Us%20on%20Discord&logo=discord&logoColor=blue)](https://discord.gg/Zrc9x3ts)  
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-black?style=for-the-badge&logo=github)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)  
-[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Join-green?logo=whatsapp)](https://chat.whatsapp.com/Fzt4KispCmk0seaPgSvkyX)
+  
+### 📬 Join our Communities  
+[![Join Discord](https://img.shields.io/discord/1405808666179014697?color=5865F2&label=Join%20Us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/Zrc9x3ts)  
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?logo=github&style=for-the-badge)](https://github.com/eleven-dev-cafe/cafe-talks/discussions)  
+[![Join WhatsApp Group](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&style=for-the-badge)](https://chat.whatsapp.com/Fzt4KispCmk0seaPgSvkyX)  
 
-<br>
+---
 
 **🌟 Star us on GitHub if you believe in the vision!**
